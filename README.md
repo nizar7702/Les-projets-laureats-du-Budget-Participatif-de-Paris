@@ -22,10 +22,10 @@ Ce projet s’appuie sur le dataset officiel des projets lauréats du Budget Par
 Ce projet est un **chatbot citoyen** conçu pour aider les habitants à :
 
 - Formuler des idées de projets locaux  
-- Explorer les projets existants  
-- Comparer les propositions  
+- Explorer les projets existants finis/abondonnés 
+- Donner des suggestions de projets utilisant LLMs  
 
-Il s’appuie sur des techniques de **traitement du langage naturel (NLP)** et une logique de **détection d’intention**.
+Il s’appuie sur des techniques de **traitement du langage naturel (NLP)** ,une logique de **détection d’intention** et du **LLM**.
 
 ---
 
