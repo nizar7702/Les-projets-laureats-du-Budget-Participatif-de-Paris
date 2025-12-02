@@ -47,7 +47,7 @@ Phi-3 :mini est particulièrement adapté aux projets où la **simplicité de d�
 ![Simulation chatbot 1](Partie_2_Chatbot_Citoyen/Screenshots/Simulation_chatbot1.png)
 
 > L'utilisateur donne une description et le chatbot cherche des similaires dans le dataset :  
-![Simulation chatbot 2](Partie_2_Chatbot_Citoyen/Screenshots/Simulation_chatbot2.png)
+![Simulation chatbot 2](Partie_2_Chatbot_Citoyen/Screenshots/Simulation_Chatbot2.png)
 
 > Génération des suggestions des projets avec LLM :  
 ![Simulation chatbot 3](Partie_2_Chatbot_Citoyen/Screenshots/Simulation_chatbot3.png)
