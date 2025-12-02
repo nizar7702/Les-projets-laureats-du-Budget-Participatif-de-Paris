@@ -66,7 +66,7 @@ pip install -r requirements.txt
 ```
 ### Démarrage de l'application
 
-- Changer le variable DB_PATH in app.py
+- Changer la variable DB_PATH in app.py selon le path locale du base bp_projects.db
 - lancer l'application utilisant la commande:
 ```bash
 cd "Partie_2_Chatbot_Citoyen"
