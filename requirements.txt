@@ -1,0 +1,19 @@
+# Framework web
+Flask==3.0.3
+Flask-SocketIO==5.3.6
+eventlet==0.36.1  
+
+# Interface utilisateur
+streamlit==1.39.0
+
+# Traitement du langage et fuzzy matching
+fuzzywuzzy==0.18.0
+python-Levenshtein==0.25.1   
+
+# Utilitaires
+requests==2.32.3
+numpy==2.1.3
+pandas==2.2.3
+
+# Client Ollama pour utiliser phi3:mini
+ollama==0.1.7
