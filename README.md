@@ -9,7 +9,7 @@
 Ce projet s’appuie sur le dataset officiel des projets lauréats du Budget Participatif de Paris :
 
 - Dataset : [bp_projets_gagnants](https://opendata.paris.fr/explore/dataset/bp_projets_gagnants/table/?disjunctive.thematique&disjunctive.direction_pilote_projet&disjunctive.echelle_bp&disjunctive.arrondissement_projet_gagnant&disjunctive.avancement_projet)  
-- Analyse complète disponible sur Google Colab :  
+- Analyse complète avec les interprétations détaillées disponible sur Google Colab :  
   [Lien vers l’analyse](https://colab.research.google.com/drive/1lTeORkLjKeAwSlJVdLGZOxdLJl6ZvXLw#scrollTo=bDF1e2vGowbR)  
   *(Un fichier offline est également fourni)*
 
