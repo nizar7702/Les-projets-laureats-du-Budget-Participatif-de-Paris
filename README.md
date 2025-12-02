@@ -65,6 +65,8 @@ Phi-3 :mini est particulièrement adapté aux projets où la **simplicité de d�
 pip install -r requirements.txt
 ```
 ### Démarrage de l'application
+1.Changer le variable DB_PATH in app.py
+2.lancer l'application utilisant la commande:
 ```bash
 cd "Partie_2_Chatbot_Citoyen"
 streamlit run app.py
